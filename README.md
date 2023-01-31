@@ -14,13 +14,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CranFused-Real](https://github.com/CranFused-Real)
 
-- ⚡ Here's a Joke. [Why don't hackers get colds? They have firewalls!](Why don't hackers get colds? They have firewalls!)
+- ⚡ Here's a Joke (Why don't hackers get colds? They have firewalls!)
+- ⚡ Here's another Joke lmao (18+) (What does a 90's hacker say when he has sex? Ok, I'm in.)
 
 - 💬 Ask me about **Lua, Python, JS, Node JS, HTML or CSS**
 
 - 📫 How to reach me **arnav4727@outlook.com**
-
-- ⚡ Here's another Joke lmao (18+) [What does a 90's hacker say when he has sex? Ok, I'm in.](What does a 90's hacker say when he has sex? Ok, I'm in.)
 
 - Tell me how was the joke 💀 **Tell me on Discord when its available**
 
