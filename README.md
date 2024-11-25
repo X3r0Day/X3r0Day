@@ -10,17 +10,15 @@
 
 # About Me
 
-- **What I'm Working On**: Currently building a **web scraping bot** in **Python** that extracts data from various websites and automates tasks for research projects.
+- **What I'm Working On**: Currently on a break.
 
 - **What I'm Learning**: Exploring **cybersecurity** and **ethical hacking** techniques to better understand the vulnerabilities in today’s web applications and how to protect them.
 
-- **Portfolio**: Check out my open-source projects and contributions on my [GitHub](https://github.com/X3r0Day).
+- **Portfolio**: Check out my open-source projects and contributions on my [X3r0Day](https://github.com/X3r0Day).
 
 - **Fun Fact**: A hacker's favorite exercise? **Rooting** themselves on the command line.
 
-- **Tech Stack**: I work with technologies like **Python**, **JavaScript**, **Node.js**, **HTML/CSS**, and **Linux**. Let me know if you'd like to collaborate or discuss projects in these areas.
-
-- **Reach Out**: Contact me via **email** at **arnav4727@outlook.com** for inquiries or collaboration.
+- **Tech Stack**: I work with technologies like **Python**, **JavaScript**, **Node.js**, **HTML/CSS**, and **Linux**.
 
 
 <h3 align="left">Connect with me:</h3>
