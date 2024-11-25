@@ -1,4 +1,5 @@
-[![MasterHead](https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif)]
+[![MasterHead]([https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif](https://c.tenor.com/J-w5FUWA17sAAAAd/tenor.gif))]
+https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif
 
 <h1 align="center">Hi 👋, I'm CranFused</h1>
 <h3 align="center">Ethical Hacking Enthusiast</h3>
