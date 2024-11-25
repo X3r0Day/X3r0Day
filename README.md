@@ -7,7 +7,7 @@ https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=X3r0Day&label=Profile%20views&color=0e75b6&style=flat" alt="X3r0Day" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cranfused-real" alt="cranfused-real" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x3r0day" alt="x3r0day" /></a> </p>
 
 - 🔭 I’m currently working on **A bot which can communicate between client and server in Minecraft in JS**
 
