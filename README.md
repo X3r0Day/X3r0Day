@@ -1,11 +1,11 @@
 [![MasterHead](https://c.tenor.com/J-w5FUWA17sAAAAd/tenor.gif)]
-https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif
 
-<h1 align="center">Hi 👋, I'm CranFused</h1>
-<h3 align="center">Ethical Hacking Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif"
+<h1 align="center">X3r0Day Here</h1>
+<h3 align="center">Security Researcher</h3>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzUwaDBzNXVybDZoaHZraWxpemlwczZwcTV4bGlzanowOWpwdWh1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif"
+https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cranfused-real&label=Profile%20views&color=0e75b6&style=flat" alt="cranfused-real" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=X3r0Day&label=Profile%20views&color=0e75b6&style=flat" alt="X3r0Day" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cranfused-real" alt="cranfused-real" /></a> </p>
 
