@@ -8,14 +8,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x3r0day" alt="x3r0day" /></a> </p>
 
-- 🔭 I’m currently working on **A bot which can communicate between client and server in Minecraft in JS**
-- 🌱 I’m currently learning **About Security in Networks and systems**
-- 👨‍💻 All of my projects are available at [https://github.com/X3r0Day](https://github.com/X3r0Day/)
-- ⚡ Here's a Joke (Why don't hackers get colds? They have firewalls!)
-- ⚡ Here's another Joke lmao (18+) (What does a 90's hacker say when he has sex? Ok, I'm in.)
-- 💬 Ask me about **Lua, Python, JS, Node JS, HTML or CSS**
-- 📫 How to reach me **arnav4727@outlook.com**
-- Tell me how was the joke 💀 **Tell me on Discord when it's available**
+# About Me
+
+- **What I'm Working On**: Currently building a **web scraping bot** in **Python** that extracts data from various websites and automates tasks for research projects.
+
+- **What I'm Learning**: Exploring **cybersecurity** and **ethical hacking** techniques to better understand the vulnerabilities in today’s web applications and how to protect them.
+
+- **Portfolio**: Check out my open-source projects and contributions on my [GitHub](https://github.com/X3r0Day).
+
+- **Fun Fact**: A hacker's favorite exercise? **Rooting** themselves on the command line.
+
+- **Tech Stack**: I work with technologies like **Python**, **JavaScript**, **Node.js**, **HTML/CSS**, and **Linux**. Let me know if you'd like to collaborate or discuss projects in these areas.
+
+- **Reach Out**: Contact me via **email** at **arnav4727@outlook.com** for inquiries or collaboration.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
