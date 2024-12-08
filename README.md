@@ -10,7 +10,7 @@
 
 # About Me
 
-- **What I'm Working On**: Currently on a break.
+- **What I'm Working On**: Working on pentesting framework called X3r0Day Framework.
 
 - **What I'm Learning**: Exploring **cybersecurity** and **ethical hacking** techniques to better understand the vulnerabilities in today’s web applications and how to protect them.
 
