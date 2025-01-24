@@ -20,7 +20,7 @@
 
 - **Tech Stack**: I work with technologies like **Python**, **JavaScript**, **Node.js**, **HTML/CSS**, and **Linux**.
 
-- **Contact me**: [X3r0Day@proton.me](mailto:X3r0Day@proton.me)
+- **Contact me**: [X3r0DayHQ@proton.me](mailto:X3r0DayHQ@proton.me)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
