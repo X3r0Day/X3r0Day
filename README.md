@@ -14,7 +14,7 @@
 
 - **What I'm Learning**: Exploring **cybersecurity** and **ethical hacking** techniques to better understand the vulnerabilities in today’s web applications and how to protect them.
 
-- **Portfolio**: Check out my open-source projects and contributions on my [X3r0Day](https://github.com/X3r0Day).
+- **Portfolio**: Check out my open-source projects and contributions on my [X3r0Day](https://github.com/X3r0Day?tab=repositories).
 
 - **Fun Fact**: A hacker's favorite exercise? **Rooting** themselves on the command line.
 
