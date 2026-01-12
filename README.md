@@ -3,13 +3,11 @@
 
 ---
 
-
 <div align="center">
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=30&center=true&vCenter=true&height=60&width=1000&lines=Hi!+Im+X3r0Day+!!;Welcome+to+my+playground.;Enjoy+your+stay+!+%3C3" alt="Title"></img>
   </a>
 </div>
-
 
 <h2 align="left">
   Sup!
@@ -36,25 +34,38 @@ I tinker with code, experiment with tech, and chase the “how it works” behin
 ---
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=x3r0day&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/coffinxp/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=x3r0day&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/x3r0day/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x3r0day&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
-<br><br>
+
+<div align="center">
+
+  <p>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=x3r0day&show_icons=true&theme=tokyonight" height="180px" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=x3r0day&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" height="180px" />
+  </p>
+
+
+  <p>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=x3r0day&theme=tokyonight" width="100%" />
+    </a>
+  </p>
+  
+
+</div>
+
+<br>
 
 ---
+
 <h2 id="present_status"> Present Status </h2>
 
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+<div align="right">
+  <img width="25%" src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+</div>
 
 - **What I'm Working On**: Working on pentesting framework called X3r0Day Framework.
-
 - **What I'm Learning**: Exploring **cybersecurity** and **ethical hacking** techniques to better understand the vulnerabilities in today’s web applications and how to protect them.
-
 - **Portfolio**: Check out my open-source projects and contributions on my [X3r0Day](https://github.com/X3r0Day?tab=repositories).
-
 - **Fun Fact**: A hacker's favorite exercise? **Rooting** themselves on the command line.
 
 <br>
@@ -63,9 +74,7 @@ I tinker with code, experiment with tech, and chase the “how it works” behin
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
-
 ---
-
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -103,8 +112,6 @@ I tinker with code, experiment with tech, and chase the “how it works” behin
   </div>
 </div>
 
-
-
 ---
 
 <p align="center">
@@ -113,6 +120,7 @@ I tinker with code, experiment with tech, and chase the “how it works” behin
 <p align="center">
 <a>🌱</a>
 </p>
+
 <p align="center">
   <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
