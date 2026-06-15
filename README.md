@@ -87,6 +87,28 @@ x3r0day@arch
 
 ---
 
+## `cat ~/.trophies`
+
+```ini
+[ pyweek 41 ]   won the team category · "the keeper" · python
+                team MXRV. you're a lighthouse keeper at the end of the
+                world, keeping the light on while the code keeps breaking.
+
+[ hackathon  ]  2nd place · manware's discord hackathon · ran as 'meowha'
+                a 32-bit RISC-V CPU and IDE. inside roblox. on purpose.
+                asm → parser.lua → bytecode → cpu.lua. and yeah, it runs.
+```
+
+<div align="center">
+<sub>
+the keeper: <a href="https://github.com/ved-in/The-Keeper">repo</a> · <a href="https://pyweek.org/e/MXRV/">pyweek</a> &nbsp;|&nbsp; rv32im: <a href="https://github.com/X3r0Day/Roblox-RV32IM">repo</a> · <a href="https://x.com/IAmManware/status/2064735031378272599">manware's take</a>
+</sub>
+<br><br>
+<sub>yes, it runs real RISC-V assembly. no, roblox was not built for this.</sub>
+</div>
+
+---
+
 <div align="center">
 
 <samp>i break things to understand them, then write down how, so the next person can't.</samp>
