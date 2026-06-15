@@ -97,6 +97,7 @@ x3r0day@arch
 [ hackathon  ]  2nd place · manware's discord hackathon · ran as 'meowha'
                 a 32-bit RISC-V CPU and IDE. inside roblox. on purpose.
                 asm → parser.lua → bytecode → cpu.lua. and yeah, it runs.
+                (won a fucking gaming keyboard for it!)
 ```
 
 <div align="center">
